@@ -1,0 +1,4 @@
+variable "instance_type" {}
+variable "ami" {}
+variable "region" {}
+variable "name" {}
