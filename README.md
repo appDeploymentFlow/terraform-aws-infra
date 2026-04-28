@@ -10,15 +10,26 @@
 
 ## The screenshot of created infrastructure
 
-VPC group
+- VPC group
+
 ![vpc](images/vpc.png)
-Internet Gateway
+
+- Internet Gateway
+
 ![Gateway](images/ig.png)
-Route table
+
+- Route table
+
 ![Route](images/rt.png)
-Security Group
+
+- Security Group
+
 ![Security](images/sg.png)
-Subnet
+
+- Subnet
+
 ![Subnet](images/subnet.png)
-EC2 instance using above network configuration
+
+- EC2 instance using above network configuration
+
 ![Instance](images/instance.png)
